@@ -21,7 +21,7 @@ Before running OutlookAutoBot, make sure you have the following:
 
 1.  Clone this repository to your local machine:
     
-    `git clone https://github.com/yourusername/OutlookAutoBot.git` 
+    `git clone https://github.com/KN4KNG/Outlook-Auto-Bot.git` 
     
 2.  Navigate to the project directory:
     
